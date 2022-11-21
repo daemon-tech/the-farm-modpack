@@ -1,0 +1,13 @@
+name = "Animal Feeding Trough"
+filename = "animal_feeding_trough-1.0.3+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bRFWnJ87/versions/1.0.3%2B1.19/animal_feeding_trough-1.0.3%2B1.19.jar"
+hash-format = "sha1"
+hash = "160da771f484bfcb29a50d0fb72fbb870a135692"
+
+[update]
+[update.modrinth]
+mod-id = "bRFWnJ87"
+version = "4aMmeYrq"

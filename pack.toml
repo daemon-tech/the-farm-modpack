@@ -1,0 +1,16 @@
+name = "TheFarm"
+author = "Daemon"
+version = "1.0.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "660625c5c5010638fce99f8e8f41db60bfdbf4087acf185481bc07d6c724a6a5"
+
+[versions]
+fabric = "0.14.10"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19.1", "1.19"]
