@@ -1,0 +1,13 @@
+name = "OrePlant"
+filename = "fabric-oreplant-mod-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cVfthHOc/versions/2OfSgRfm/fabric-oreplant-mod-1.0.0.jar"
+hash-format = "sha1"
+hash = "91a378be8eecc95de9fcdbb2412943ec7a353ab0"
+
+[update]
+[update.modrinth]
+mod-id = "cVfthHOc"
+version = "2OfSgRfm"
